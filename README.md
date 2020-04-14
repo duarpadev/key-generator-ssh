@@ -41,8 +41,11 @@ To verify your new SSH key pair is generated, type:
 
 **`ls ~/.ssh/id_* `**
 
+------
 Output:
 **` /home/yourusername/.ssh/id_rsa /home/yourusername/.ssh/id_rsa.pub `**
+
+------
 
 ---------------------------------------------
 

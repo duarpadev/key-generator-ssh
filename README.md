@@ -27,7 +27,7 @@ In the next phase, decide use or not a passphrase to your key.
 ------
 Output:
 **`Enter passphrase (empty for no passphrase):`**
-------
+
 
 If desired to insert a password, typing.
 
@@ -45,7 +45,6 @@ To verify your new SSH key pair is generated, type:
 Output:
 **` /home/yourusername/.ssh/id_rsa /home/yourusername/.ssh/id_rsa.pub `**
 
-------
 
 ---------------------------------------------
 
